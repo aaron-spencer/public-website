@@ -21,3 +21,12 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+author:
+  name: "Aaron Spencer"
+  bio: "Network, Cloud, Infrastructure Leader and Developer. App Developer on the side :smile:"
+  location: "NYC Area"
+  links:
+    - label: "Linked-In"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/aspencer"
