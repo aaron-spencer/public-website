@@ -6,13 +6,13 @@ title: ""
 
 ## Apps on the App Store
 
-### Randocize
+### [Randocize]({{ site.baseurl }}/randocize/)
 
 [![Randocize logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)]({{ site.baseurl }}/randocize/)
 
 Are you ready to give in to your inner entropy? Embrace randomness and let [Randocize]({{ site.baseurl }}/randocize/) tell you when to move! 
 
-### What's the Score?
+### [What's the Score?]({{ site.baseurl }}/whats-the-score/)
 
 [![What\'s the Score logo]({{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg)]({{ site.baseurl }}/whats-the-score/)
 
