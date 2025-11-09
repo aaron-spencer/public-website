@@ -1,27 +1,21 @@
 ---
 layout: home
-title: Welcome
+title: ""
 author_profile: true
 classes: wide
 ---
 
-## What's New
+## Apps on the App Store
 
-### Apps on the App Store
+### Randocize
 
-[![Logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)](/randocize/)
+[![Randocize logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)]({{ site.baseurl }}/randocize/)
 
-Are you ready to give in to your inner entropy? Embrace randomness and let <app name> tell you when to move! 
+Are you ready to give in to your inner entropy? Embrace randomness and let Randocize tell you when to move! 
 
-[View on App Store]
+### What's the Score?
 
-### What's the Score
-
-[![What\'s the score logo]({{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg)](https://apps.apple.com/us/app/whatsthescore/id1397651154)
-
-#### Updated Version 2.0 out now!
+[![What\'s the Score logo]({{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg)]({{ site.baseurl }}/whats-the-score/)
 
 No more missing the action while you are keeping friends up to date! What's the Score? makes keeping track and letting everyone know the score quick and easy.
-
-[View on App Store](https://apps.apple.com/us/app/whatsthescore/id1397651154)
 
