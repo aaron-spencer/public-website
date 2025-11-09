@@ -1,4 +1,4 @@
-title: "Aaron Spencer"
+title: ""
 description: "Fun apps available on the App Store"
 baseurl: "/public-website"
 url: "https://aaron-spencer.github.io"
@@ -12,6 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jemoji
 
 # Ensure pages are processed
 include: ["_pages"]
