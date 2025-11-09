@@ -8,8 +8,7 @@ twitter_username: yourusername
 github_username: yourusername
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"# remote_theme: pages-themes/slate@v0.2.0
-# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
   - jekyll-feed
@@ -24,6 +23,7 @@ exclude:
 
 author:
   name: "Aaron Spencer"
+  avatar: ""
   bio: "Network, Cloud, Infrastructure Leader and Developer. App Developer on the side :smile:"
   location: "NYC Area"
   links:
