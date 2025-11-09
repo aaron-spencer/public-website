@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Home
+title: Welcome
 author_profile: true
 ---
-
-# Welcome
 
 Thank you for checking out my Apps!
 

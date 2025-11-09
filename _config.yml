@@ -1,4 +1,4 @@
-title: "Aaron Spencer Apps"
+title: "Aaron Spencer"
 description: "Fun apps available on the App Store"
 baseurl: "/public-website"
 url: "https://aaron-spencer.github.io"
@@ -21,6 +21,12 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
 
 author:
   name: "Aaron Spencer"
@@ -60,4 +66,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
