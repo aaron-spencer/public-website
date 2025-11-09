@@ -22,12 +22,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-
 author:
   name: "Aaron Spencer"
   avatar: "./images/WhatsTheScoreIcon.jpg"
