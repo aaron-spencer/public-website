@@ -1,7 +1,7 @@
 ---
 layout: single
-title: What's the Score?
-permalink: /whats-the-score/
+title: Randocize
+permalink: /randocize/
 ---
 
 ### <app name> just released! Get ready to not be ready...

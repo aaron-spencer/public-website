@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Randocize
-permalink: /randocize/
+title: What's the Score?
+permalink: /whats-the-score/
 ---
 
 ### What's the Score

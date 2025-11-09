@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Randocize"
+    url: /randocize/
   - title: "What's the Score?"
     url: /whats-the-score/
   - title: "Posts"

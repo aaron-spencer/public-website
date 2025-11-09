@@ -17,7 +17,7 @@ Are you ready to give in to your inner entropy? Embrace randomness and let <app 
 
 ### What's the Score
 
-[![What\'s the score logo](./images/WhatsTheScoreIcon.jpg)](https://apps.apple.com/us/app/whatsthescore/id1397651154)
+[![What\'s the score logo]({{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg)](https://apps.apple.com/us/app/whatsthescore/id1397651154)
 
 #### Updated Version 2.0 out now!
 
