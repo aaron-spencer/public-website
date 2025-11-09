@@ -1,13 +1,15 @@
 ---
 layout: single
-title: What's the Score?
-permalink: /whats-the-score/
+title: Randocize
+permalink: /randocize/
 ---
 
-### <app name> just released! Get ready to not be ready...
+### What's the Score
 
-![Logo](/assets/images/RandocizeVectorPath.png)
+[![What\'s the score logo]({{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg)](https://apps.apple.com/us/app/whatsthescore/id1397651154)
 
-Are you ready to give in to your inner entropy? Embrace randomness and let <app name> tell you when to move! 
+#### Updated Version 2.0 out now!
 
-[View on App Store]
+No more missing the action while you are keeping friends up to date! What's the Score? makes keeping track and letting everyone know the score quick and easy.
+
+[View on App Store](https://apps.apple.com/us/app/whatsthescore/id1397651154)
