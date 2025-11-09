@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "What's the Score?"
+    url: /whats-the-score/
   - title: "Posts"
     url: /posts/
   - title: "About"

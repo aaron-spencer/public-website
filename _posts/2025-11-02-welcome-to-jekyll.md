@@ -2,6 +2,7 @@
 layout: posts
 title: "Welcome to Jekyll!"
 date: 2025-11-02 10:00:00 -0500
+classes: wide
 ---
 
 # Welcome to My Blog
