@@ -2,9 +2,8 @@
 layout: home
 title: Welcome
 author_profile: true
+classes: wide
 ---
-
-Thank you for checking out my Apps!
 
 ## What's New
 
