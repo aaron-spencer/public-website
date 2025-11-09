@@ -7,9 +7,9 @@ classes: wide
 
 ## What's New
 
-### <app name> just released! Get ready to not be ready...
+### Apps on the App Store
 
-![Logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)
+[![Logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)](/randocize/)
 
 Are you ready to give in to your inner entropy? Embrace randomness and let <app name> tell you when to move! 
 

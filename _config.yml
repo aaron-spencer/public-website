@@ -24,7 +24,7 @@ exclude:
 
 author:
   name: "Aaron Spencer"
-  avatar: "./images/WhatsTheScoreIcon.jpg"
+  # avatar: "{{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg"
   bio: "Network, Cloud, Infrastructure Leader and Developer. App Developer on the side :smile:"
   location: "NYC Area"
   email: your-email@example.com
