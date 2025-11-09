@@ -8,12 +8,13 @@ twitter_username: yourusername
 github_username: yourusername
 
 # Build settings
-theme: minimal-mistakes-jekyll
-# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"# remote_theme: pages-themes/slate@v0.2.0
 # theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude files from processing
 exclude:
