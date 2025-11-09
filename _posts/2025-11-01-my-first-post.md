@@ -3,7 +3,6 @@ layout: posts
 title: "My First Post"
 date: 2025-11-01 14:30:00 -0500
 categories: blog personal
-classes: wide
 ---
 
 # Hello World!
