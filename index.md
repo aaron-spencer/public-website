@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-# author_profile: true
+comments: false
 ---
 
 ## Apps on the App Store

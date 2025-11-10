@@ -63,6 +63,7 @@ defaults:
       share: true
       related: true
       classes: wide
+      comments: true
   # home
   - scope:
       path: ""
@@ -79,3 +80,4 @@ defaults:
       layout: single
       author_profile: true
       classes: wide
+      comments: true
