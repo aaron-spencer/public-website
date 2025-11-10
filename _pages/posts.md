@@ -2,5 +2,5 @@
 layout: home
 title: "Posts"
 permalink: /posts/
-# comments: false
+comments: false
 ---
