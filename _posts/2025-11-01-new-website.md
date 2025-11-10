@@ -1,9 +1,9 @@
 ---
-layout: posts
+# layout: posts
 title: "New Website"
 date: 2025-11-09 14:20:00 -0500
 categories: updates
-comments: true
+# comments: true
 ---
 
 While my previous website hosting worked fine, I have decided to move it to a place where I have a bit more control over how the site is constructed. It is now using Github pages, which has taken a little while to get used to, but seems to be pretty flexible and generally free!
