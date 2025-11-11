@@ -12,4 +12,6 @@ While my previous website hosting worked fine, I have decided to move it to a pl
 
 This website is still a work in progress, but it still progress nonetheless! You will still find links to important resources, such as app descriptions and links to download from the App Store.
 
+It also provides the capability for feedback via Github Discussions and [giscus](https://giscus.app/). Posting comments requires a Github account, which is no cost to create.
+
 More to come!
