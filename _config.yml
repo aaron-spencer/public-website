@@ -1,7 +1,7 @@
 title: ""
 description: "Fun apps available on the App Store"
-baseurl: "/public-website"
-url: "https://aaron-spencer.github.io"
+baseurl: "/"
+url: "https://www.randocize.com"
 
 repository: aaron-spencer/public-website
 
@@ -30,7 +30,7 @@ author:
   # avatar: "{{ site.baseurl }}/assets/images/WhatsTheScoreIcon.jpg"
   bio: "Network, Cloud, Infrastructure Leader and Developer. App Developer on the side :slightly_smiling_face:"
   location: "NYC Area"
-  email: your-email@example.com
+  email: crunchly@gmail.com
   links:
     - label: "Linked-In"
       icon: "fa-brands fa-linkedin"
