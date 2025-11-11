@@ -47,7 +47,7 @@ comments:
     category_id          : "DIC_kwDOQN8kHs4Cxo0Y"
     discussion_term      : "pathname"
     reactions_enabled    : "1"
-    theme                : "preferred_color_scheme"
+    theme                : "light"
 
 # Defaults
 defaults:
