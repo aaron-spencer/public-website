@@ -12,4 +12,4 @@ permalink: /whats-the-score/
 
 No more missing the action while you are keeping friends up to date! What's the Score? makes keeping track and letting everyone know the score quick and easy.
 
-[View on App Store](https://apps.apple.com/us/app/whatsthescore/id1397651154)
+[View in App Store](https://apps.apple.com/us/app/whatsthescore/id1397651154)

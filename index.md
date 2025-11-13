@@ -6,7 +6,7 @@ comments: false
 
 ## Apps on the App Store
 
-### [Randocize]({{ site.baseurl }}/randocize/) coming soon!
+### [Randocize]({{ site.baseurl }}/randocize/) out now!
 
 [![Randocize logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)]({{ site.baseurl }}/randocize/)
 
