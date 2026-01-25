@@ -4,7 +4,7 @@ title: Randocize
 permalink: /randocize/
 ---
 
-### Randocize version 1.1.1 is now available! Get ready to not be ready...
+### Randocize version 1.2 is now available! Who knows when fun will happen...
 
 ![Logo]({{ site.baseurl }}/assets/images/RandocizeVectorPath.png)
 
